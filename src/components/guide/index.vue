@@ -21,7 +21,7 @@
         <iframe src="https://ghbtns.com/github-btn.html?user=Binaryify&repo=vue-tetris&type=star&count=true" frameBorder="0" scrolling="0" width="170px" height="20px" style="transform: scale(1.68);transform-origin: center left" />
         <br />
         <iframe src="https://ghbtns.com/github-btn.html?user=Binaryify&repo=vue-tetris&type=fork&count=true" frameBorder="0" scrolling="0" width="170px" height="20px" style="transform: scale(1.68);transform-origin: center left" />
-      </!--> -->
+      </p> -->
       <div class="space">SPACE</div>
     </div>
     <!-- <div class="guide qr">
