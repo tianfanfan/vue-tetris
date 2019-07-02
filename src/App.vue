@@ -1,6 +1,7 @@
 <template>
   <div class="app" :style="size">
-    <div class="rect" :class="drop?'drop':''">
+    <!-- <div class="rect" :class="drop?'drop':''"> -->
+    <div class="rect">
       <Decorate/>
       <div class="screen">
         <div class="panel">
